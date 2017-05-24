@@ -1,4 +1,4 @@
-/**
- * Put your code here
- */
+/*
+ * Mirosław Stec
+ * */
 package pl.codewise.internship;
